@@ -16,3 +16,5 @@ backend/.mvn
 # frontend
 frontend/node_modules
 frontend/dist
+
+#add universal gitignore file
